@@ -14,20 +14,9 @@
 	
 	<div id="shadowStyle"></div>
 	<section>
-		<div class="subLinkbar">
-			<div class="wrapper">
-				<nav role="subNav">
-					<ul>
-						<li><a href=""></a></li>
-						<li><a href=""></a></li>
-					</ul>
-				</nav>
-				<img src="../img/border.png">
-			</div>
-		</div>
-
-
-
+		<?php
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_minecraft/minecraftSLB.php';
+		?>
 
 		<div class="wrapper">
 			<div class="mainText">
@@ -66,13 +55,10 @@
 								<a target="_blank" href="http://www.youtube.com/watch?v=kh6JSFYNpKE" class="elementWatch">Watch the series &#9654;</a>
 								<img src="../img/verticalline.png" height="10px">
 								<a target="_blank" href="http://www.mediafire.com/?g2ddkgw6y59l3qm">Download the map</a>
-								<iframe class="embededvideo" <iframe width="560" height="315" src="https://www.youtube.com/embed/kh6JSFYNpKE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+								<iframe class="embededvideo" src="https://www.youtube.com/embed/kh6JSFYNpKE" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 								<br>
 							</div>
 						</div>
-					</div>
-					<div>
-						
 					</div>
 					<br><br><br><br>
 				</article>
@@ -80,25 +66,9 @@
 		</div>
 	</section>
 	<br>
-	<footer class="wrapper">
-		<div class="bottomBar">
-			<br><br>
-			<nav role="bottomNav">
-				<ul>
-					<li><a href="">my name</a></li>
-					<li><a href="">zelda</a></li>
-					<li><a href="">därför</a></li>
-					<li><a href="">lel?</a></li>
-					<li><a href="">varför?</a></li>
-					<li><a href="">lego?</a></li>
-					<li><a href="">starwars</a></li>
-				</ul>
-			</nav>
-		</div>
-	</footer>
-	<div id="top_button">
-		<a href=""><img src="img/top_button.png" href></a>
-	</div>
+	<?php
+		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/footer.php';
+	?>
 </body>
 </html>
 

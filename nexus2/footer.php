@@ -7,6 +7,7 @@
 				<li><a href="">contact</a></li>
 				<li><a href="">narnia</a></li>
 				<li><a href="">starwars</a></li>
+				<li><a href="/nexus2/pages_minecraft/minecraftMaps.php">minecraft</a></li>
 			</ul>
 		</nav>
 	</div>

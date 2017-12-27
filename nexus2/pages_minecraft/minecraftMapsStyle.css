@@ -187,11 +187,6 @@ div.testy {
     display: none;
 }
 
-div.testy:hover {
-    display: block;
-    transition-delay: 2000ms;
-}
-
 iframe.embededvideo {
     width: 100%;
     height: 10px;
@@ -200,12 +195,9 @@ iframe.embededvideo {
 }
 
 iframe.embededvideo:hover {
-    height: 216px;
+    height: 10px;
 }
 
-div.element a.elementWatch:hover + div.te2{
-    height: 2px;
-}
 
 
 

@@ -4,7 +4,7 @@
 	<title>Fish</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="accountSetupStyle.css">
-	<link rel="stylesheet" type="text/css" href="header.css">
+	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
 
 </head>
 <body style="background-color:#999;">
@@ -14,30 +14,10 @@
 	
 	<div id="shadowStyle"></div>
 	<section>
-		<div class="subLinkbar">
-			<div class="wrapper">
-				<nav role="subNav">
-					<ul>
-						<li><a href="accountSetup.htm">Create account</a></li>
-						<li><a href="">Make a post</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-						<li><a href="">Browse content</a></li>
-					</ul>
-				</nav>
-				<img src="img/border.png">
-			</div>
-		</div>
+		<?php
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_forum/forumSLB.php';
+		?>
 
-
-		
 		<div class="wrapper">
 			<div class="mainText">
 				<article>
@@ -70,28 +50,22 @@
 								</div>
 								<button type="submit">Submit</button>
 							</form>
+							<fieldset>
+								<legend>Personalia:</legend>
+								Name: <input type="text"><br>
+								Email: <input type="text"><br>
+								Date of birth: <input type="text">
+							</fieldset>
 						</div>
 					<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>hej
 				</article>
 			</div>
 		</div>
 	</section>
-	<footer class="wrapper">
-		<div class="bottomBar">
-			<br><br>
-			<nav role="bottomNav">
-				<ul>
-					<li><a href="">my name</a></li>
-					<li><a href="">zelda</a></li>
-					<li><a href="">därför</a></li>
-					<li><a href="">varför?</a></li>
-					<li><a href="">varför?</a></li>
-					<li><a href="">varför?</a></li>
-					<li><a href="">varför?</a></li>
-				</ul>
-			</nav>
-		</div>
-	</footer>
+	<?php
+		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/footer.php';
+	?>
+
 </body>
 </html>
 
