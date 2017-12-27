@@ -9,7 +9,7 @@
 </head>
 <body style="background-color:#999;">
 	<?php
-		include 'header.php';
+		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/header.php';
 	?>
 	
 	<div id="shadowStyle"></div>
@@ -80,22 +80,10 @@
 		</div>
 	</section>
 	<br>
-	<footer class="wrapper">
-		<div class="bottomBar">
-			<br><br>
-			<nav role="bottomNav">
-				<ul>
-					<li><a href="">my name</a></li>
-					<li><a href="">zelda</a></li>
-					<li><a href="">därför</a></li>
-					<li><a href="">lel?</a></li>
-					<li><a href="">varför?</a></li>
-					<li><a href="">lego?</a></li>
-					<li><a href="">starwars</a></li>
-				</ul>
-			</nav>
-		</div>
-	</footer>
+	<?php
+		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/footer.php';
+	?>
+
 	<div id="top_button">
 		<a href=""><img src="img/top_button.png" href></a>
 	</div>
