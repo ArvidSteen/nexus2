@@ -60,10 +60,7 @@
 	<?php
 		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/footer.php';
 	?>
-
-	<div id="top_button">
-		<a href=""><img src="img/top_button.png" href></a>
-	</div>
+	
 </body>
 </html>
 
