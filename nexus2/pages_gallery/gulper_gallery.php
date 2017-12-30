@@ -22,33 +22,17 @@
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1>The inovating world of Herring Inc</h1>
+					<h1>Gulper</h1>
 					<div class="text">
 						<div class="columns2">
 							<?php
-								$dirname = "img_herring/";
+								$dirname = "img_gulper/";
 								$images = glob($dirname."*.*");
 
 								foreach($images as $image) {
 							    	echo '<div class="element"><img class="normalimg" src="'.$image.'"></div>';
 								}
 							?>
-							<!--<?php
-								$dirname = $_SERVER['DOCUMENT_ROOT'] . "/nexus2/pages_gallery/img_herring/";
-								$images = glob($dirname."*.*");
-
-								foreach($images as $image) {
-							    	echo '<img src="'.$image.'">';
-								}
-							?>-->
-							<!--<?php
-								$dirname = "img_herring/";
-								$images = glob($dirname."*.*");
-
-								foreach($images as $image) {
-								    echo '<img src="'.$image.'" /><br />';
-								}
-							?>-->
 						</div>
 					</div>
 					<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

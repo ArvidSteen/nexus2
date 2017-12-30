@@ -14,7 +14,6 @@
 		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/header.php';
 	?>
 	
-	<div id="shadowStyle"></div>
 	<section>
 		<?php
 			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_forum/forumSLB.php';
@@ -23,14 +22,14 @@
 		<div class="wrapper">
 			<div class="mainText">
 				<article>
-					<p>what is life</p><br><br><br><br><br>
-						<div class="form-box">
-							<form action="form.php" method="GET"> <!--We could write POST for it to be more secure-->
-								<textarea name="message"></textarea>
-								<button type="submit">Submit</button>
-							</form>
-						</div>
-					<br><br><br><br><br>hej
+					<div style="height: 50px;"></div>
+					<div class="form-box">
+						<form action="form.php" method="GET"> <!--We could write POST for it to be more secure-->
+							<textarea name="message"></textarea>
+							<button type="submit">Submit</button>
+						</form>
+					</div>
+					<div style="height: 200px;"></div>
 				</article>
 			</div>
 		</div>

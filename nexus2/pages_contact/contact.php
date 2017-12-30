@@ -14,7 +14,6 @@
 		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/header.php';
 	?>
 	
-	<div id="shadowStyle"></div>
 	<section>
 		<?php
 			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_contact/contactSLB.php';

@@ -14,7 +14,6 @@
 		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/header.php';
 	?>
 	
-	<div id="shadowStyle"></div>
 	<section>
 		<?php
 			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_forum/forumSLB.php';
@@ -45,7 +44,7 @@
 										<option>Herring</option>
 										<option>Ridgehead</option>
 										<option>Salmon</option>
-										<option>Ziege</option>
+										<option>Mandarinfish</option>
 										<option>Gulper</option>
 									</select>
 								</div>
@@ -76,7 +75,7 @@
 						<input type="submit" value="Submit">
 						</form>
 					</div>-->
-					<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>hej
+					<div style="height: 200px;"></div>
 				</article>
 			</div>
 		</div>
