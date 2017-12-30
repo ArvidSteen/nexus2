@@ -2,7 +2,9 @@
 <html>
 <head>
 	<title>Fish</title>
+	<link rel="shortcut icon" href="/nexus2/logo/favicon.jpg">
 	<meta charset="utf-8">
+	
 	<link rel="stylesheet" type="text/css" href="minecraftMapsStyle.css">
 	<link rel="stylesheet" type="text/css" href="../header.css">
 

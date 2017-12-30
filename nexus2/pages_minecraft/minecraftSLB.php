@@ -2,9 +2,9 @@
 	<div class="wrapper">
 		<nav role="subNav">
 			<ul>
-				<li><a href="">minecraft1</a></li>
-				<li><a href="">minecraft2</a></li>
-				<li><a href="">minecraft3</a></li>
+				<li><a href="">Maps</a></li>
+				<li><a href="">Modpacks</a></li>
+				<li><a href="">Skinns</a></li>
 				<li><a href="">minecraft4</a></li>
 			</ul>
 		</nav>

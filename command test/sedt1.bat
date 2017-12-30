@@ -1,0 +1,1 @@
+sed -i '1s/^.*$/new line/' *.txt

@@ -25,7 +25,8 @@
 				<article><br><br>
 					<h1>Heading</h1>
 					<div class="text">
-						/*CONTENT HERE...*/
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/RfJsCLSaspk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/WPkMUU9tUqk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 					</div>
 				</article>
 			</div>

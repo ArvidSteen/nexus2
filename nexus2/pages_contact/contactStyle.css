@@ -128,8 +128,14 @@ p.rubrik {
 }
 
 p.brod {
-    margin: 20px 0px 0px 0px;
-    padding: 20px;
+    margin: 0px 0px 0px 0px;
+    font-family: arial;
+    font-size: 16px;
+}
+
+/*
+p.brod {
+    margin: 10px 0px 0px 0px;
     font-weight: 400;
     font-family: arial;
     font-size: 16px;

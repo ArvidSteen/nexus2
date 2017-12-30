@@ -2,11 +2,12 @@
 <html>
 <head>
 	<title>Fish</title>
-	<link rel="shortcut icon" href="/nexus2/logo/favicon.jpg">
 	<meta charset="utf-8">
-	
 	<link rel="stylesheet" type="text/css" href="indexStyle.css">
 	<link rel="stylesheet" type="text/css" href="header.css">
+	<link rel="shortcut icon" href="http://sstatic.net/stackoverflow/img/favicon.ico">
+	<link rel="shortcut icon" href="logo/favicon.jpg">
+
 </head>
 <body style="background-color:#999;">
 	<?php
@@ -59,10 +60,15 @@
 							</div>
 						</div>
 					</div>
+					<div>
+						
+					</div>
+					<br><br><br>
 				</article>
 			</div>
 		</div>
 	</section>
+	<br>
 	<?php
 		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/footer.php';
 	?>
