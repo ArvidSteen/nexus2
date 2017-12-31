@@ -23,12 +23,10 @@
 			<div class="mainText">
 				<article>
 					<div style="height: 50px;"></div>
-					<div class="form-box">
-						<form action="form.php" method="GET"> <!--We could write POST for it to be more secure-->
-							<textarea name="message"></textarea>
-							<button type="submit">Submit</button>
-						</form>
-					</div>
+					<?php
+						include 'post.php';
+					?>
+					
 					<div style="height: 200px;"></div>
 				</article>
 			</div>

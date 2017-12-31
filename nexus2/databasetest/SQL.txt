@@ -1,0 +1,27 @@
+
+
+creating login system:
+
+create table users (
+	id int(11) not null PRIMARY KEY AUTO_INCREMENT,
+    username varchar(24) not null,
+    pwd varchar(24) not null
+);
+
+
+creating post system:
+
+create table posts (
+	id int(11) not null PRIMARY KEY AUTO_INCREMENT,
+	subject varchar(128) not null,
+	content varchar(1024) not null,
+	date datetime not null
+);
+
+
+insert test:
+
+insert into posts (subject, content, date) values ('This is a shitlords title', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pellentesque augue ut ligula lobortis eleifend. Ut placerat semper dui, id fringilla felis vulputate a. Nam nunc sapien, ultricies id sem id, cursus volutpat lorem. Donec auctor rhoncus lacus id hendrerit. Donec sed faucibus ante, eget fermentum justo. Cras tincidunt augue sed tellus aliquam, pellentesque dapibus quam auctor. Sed eu nisi tempus, maximus erat et, commodo nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin aliquam maximus urna nec suscipit. Aliquam eget commodo purus.', '2017-12-31 12:54:31');
+
+select * from post where id='1'
+

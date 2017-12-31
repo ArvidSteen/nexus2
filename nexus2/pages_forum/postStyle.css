@@ -106,14 +106,33 @@ input, select {
 /*          HERE MY JURNEY BEGINNS          */
 
 
+div.postform-box {
+	width: 640px;
+	margin: 0 auto;
+	padding: 5%;
+	background-color: #ccc;
+}
 
+div.postform-box form textarea[name=subject] {
+	width: 100%;
+	height: 30px;
+	margin: 0 0 20px 0;
+	border: 1px solid green;
+}
 
+div.postform-box form textarea[name=content] {
+	width: 100%;
+	height: 100px;
+	margin: 0 0 20px 0;
+	border: 1px solid green;
+}
 
-
-
-
-
-
+div.postform-box form button {
+    background-color: green;
+    color: white;
+    width: 200px;
+    height: 40px;
+}
 
 
 

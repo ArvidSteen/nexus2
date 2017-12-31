@@ -3,7 +3,7 @@
 		<nav role="subNav">
 			<ul>
 				<li><a href="/nexus2/pages_forum/accountSetup.php">Create account</a></li>
-				<li><a href="">Make a Post</a></li>
+				<li><a href="/nexus2/pages_forum/forum.php">Make a Post</a></li>
 				<li><a href="">Browse content</a></li>
 			</ul>
 		</nav>
