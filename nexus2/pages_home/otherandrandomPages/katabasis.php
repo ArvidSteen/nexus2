@@ -26,7 +26,7 @@
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1 class="heading">Kenosis and Katabasis, Encyclopedia Hermetica: A Big History. Part 45 Subtitles</h1>
+					<h1 class="heading">Kenosis and Katabasis, Encyclopedia Hermetica: A Big History Part 45. Subtitles</h1>
 					<div class="text">
 						<p>
 							<?php
