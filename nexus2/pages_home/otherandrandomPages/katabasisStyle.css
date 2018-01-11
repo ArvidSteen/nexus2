@@ -105,10 +105,14 @@ input, select {
 
 /*          HERE MY JURNEY BEGINNS          */
 
-h1 {
-    font-size: 100px;
+h1.heading {
+    font-size: 50px;
+    margin: 0 0 0 20px;
 }
 
+.text {
+    margin: 40px;
+}
 
 
 

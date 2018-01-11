@@ -2,10 +2,10 @@
 <html>
 <head>
 	<title>Fish</title>
-	<link rel="shortcut icon" href="logo/favicon.jpg">
+	<link rel="shortcut icon" href="/nexus2/logo/favicon.jpg">
 	<meta charset="utf-8">
 	
-	<link rel="stylesheet" type="text/css" href="katabasisStyle.css">
+	<link rel="stylesheet" type="text/css" href="defultStyle.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
 
 </head>
@@ -16,20 +16,26 @@
 	
 	<section>
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/wierdSSLB.php';
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/homeSLB.php';
 		?>
 
+		<?php
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/musicSSLB.php';
+		?>
+		
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1>Kenosis-and-Katabasis-Encyclopedia-Hermetica-A-Big-History-Part-45 Text</h1>
+					<h1>Music Pics</h1>
 					<div class="text">
-						<p>
-							<?php
-								include 'Kenosis-and-Katabasis-Encyclopedia-Hermetica-A-Big-History-Part-45.txt';
-							?>
-						</p>
+						<?php
+							$dirname = "pics/";
+							$images = glob($dirname."*.*");
 
+							foreach($images as $image) {
+						    	echo '<img src="'.$image.'">';
+							}
+						?>
 					</div>
 				</article>
 			</div>

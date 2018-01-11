@@ -12,10 +12,11 @@
 				<li><a href="">Essoteric history</a></li>
 				<li><a href="">World building</a></li>
 				<li><a href="">Programing</a></li>
-				<li><a href="">Music</a></li>
+				<li><a href="/nexus2/pages_home/music.php">Music</a></li>
 				<li><a href="">Health & Diet</a></li>
 				<li><a href="">Accute animals</a></li>
-				<li><a href="/nexus2/pages_home/katabasis.php">Politics</a></li>
+				<li><a href="">Politics</a></li>
+				<li><a href="/nexus2/pages_home/otherandrandom.php">Other & Random</a></li>
 			</ul>
 		</nav>
 		<img src="/nexus2/img/border.png">

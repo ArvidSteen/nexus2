@@ -16,13 +16,17 @@
 	
 	<section>
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/XXX.php';
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/homeSLB.php';
 		?>
 
+		<?php
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/otherandrandomSSLB.php';
+		?>
+		
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1>Heading</h1>
+					<h1>Other & Random</h1>
 					<div class="text">
 						/*CONTENT HERE...*/
 					</div>
