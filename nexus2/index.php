@@ -15,7 +15,7 @@
 	
 	<section>
 		<?php
-			include '/pages_home/homeSLB.php';
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/homeSLB.php';
 		?>
 		
 		<div class="wrapper">
