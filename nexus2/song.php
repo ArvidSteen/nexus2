@@ -3,8 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Fish</title>
-	<meta charset="utf-8">
+	<?php
+	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.txt'
+	?>
+	
 	<link rel="stylesheet" type="text/css" href="defultStyle.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
 </head>

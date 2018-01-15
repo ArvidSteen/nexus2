@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Fish</title>
-	<link rel="shortcut icon" href="logo/favicon.jpg">
-	<meta charset="utf-8">
+	<?php
+	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.txt'
+	?>
 	
 	<link rel="stylesheet" type="text/css" href="defultStyle.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
