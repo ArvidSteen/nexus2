@@ -2,7 +2,7 @@
 <html>
 <head>
 	<?php
-	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.php'
+	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.txt'
 	?>
 	
 	<link rel="stylesheet" type="text/css" href="indexStyle.css">

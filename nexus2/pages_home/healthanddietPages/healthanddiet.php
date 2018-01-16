@@ -7,6 +7,7 @@
 	
 	<link rel="stylesheet" type="text/css" href="defultStyle.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
+	<link rel="stylesheet" type="text/css" href="/nexus2/pages_home/mainStyle.css">
 
 </head>
 <body style="background-color:#999;">
@@ -20,15 +21,17 @@
 		?>
 
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/musicSSLB.php';
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/healthanddietPages/healthanddietSSLB.php';
 		?>
 		
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1>Music</h1>
+					<div class="rubrik">
+						<h1>Health &amp; Diet</h1>
+					</div>
 					<div class="text">
-						/*CONTENT HERE...*/
+						CONTENTgoesHERE
 					</div>
 				</article>
 			</div>

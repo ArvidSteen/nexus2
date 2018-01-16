@@ -20,7 +20,7 @@
 		?>
 
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/otherandrandomSSLB.php';
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/otherandrandomPages/otherandrandomSSLB.php';
 		?>
 
 		<div class="wrapper">

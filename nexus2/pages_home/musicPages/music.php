@@ -5,7 +5,7 @@
 	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.txt'
 	?>
 	
-	<link rel="stylesheet" type="text/css" href="/nexus2/pages_home/otherandrandomPages/katabasisStyle.css">
+	<link rel="stylesheet" type="text/css" href="defultStyle.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
 
 </head>
@@ -20,20 +20,15 @@
 		?>
 
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/otherandrandomPages/otherandrandomSSLB.php';
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/musicPages/musicSSLB.php';
 		?>
-
+		
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1 class="heading">Anabasis II (Theriomorphosis and Theomorphosis) - Encyclopedia Hermetica: A Big History (Part 47) Subtitles</h1>
+					<h1>Music</h1>
 					<div class="text">
-						<p>
-							<?php
-								include 'anabasis_two.txt';
-							?>
-						</p>
-
+						/*CONTENT HERE...*/
 					</div>
 				</article>
 			</div>
