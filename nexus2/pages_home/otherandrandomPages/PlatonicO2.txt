@@ -1,0 +1,573 @@
+﻿ Welcome back one and all to this miniseries
+on the historiography of Western Esotericism – or as I said last time, the history of
+the history of Western Esotericism. Basically I’ve put this talk together as a means for
+myself to sort out some of the dialogues going on within academia in regards to Western Esotericism.
+Lots of people complain that academics are off speculating in their ivory towers, never
+bringing anything to the public and getting caught up in their own fancies – well the
+fact is, their books are just as accessible as anyone else’s (despite being on the pricier
+side), but you’re definitely getting more bang for your buck. In any case, the problem
+isn’t getting to the books, the problem is getting to the journal articles, which
+are generally behind a pay-wall. Well I don’t want anyone who actually cares to feel left
+out – I think if academics make their work too inaccessible then they can’t complain
+when non-academics don’t know what the hell they’re rambling on about. So, here I am
+trying to do justice to the debates in the literature.
+Before jumping in, I will give a very brief overview of the field, because it’s relatively
+new, and if you want to get your toes wet, you’ll need a few names – I’m drawing
+most of this information from Chiara Ombretta Tommasi’s article “Some Reflections on
+Antique and Late Antique Esotericism”. The history of Western Esotericism is a relatively
+new field within the academy – it can be traced back to Dame Frances Yates (who, if
+I’m not mistaken worked from the Warburg Institute), and Francois Secret, who was the
+first to hold the chair of ‘Christian Esotericism’ at “l’Ecole pratique des Hautes Etudes”
+in 1964. Furthermore, there was Eugenio Garin and Enrico Castelli, who were chiefly Renaissance
+scholars looking at the interaction of pagan culture with Christian society – the problem
+is that they conceived of the influence from Antiquity as a kind of long, golden, unbroken
+chain. Now studying esotericism in Italy during the 1960s was difficult, because neither the
+Italian Communist Party nor the Catholic Church wanted anything to do with this “superstitious”
+scholarship, and exerted a deep influence over the academy. Now I think it’s obvious
+why the Catholic Church is not interested, what with Esotericism being a foothold of
+Satan and all – but with the Communist party, the disdain stemmed from their Materialist
+biases: what good could come from a collection of such irrational ideas as magic, alchemy,
+or astrology. Now the 1960s weren’t that long ago, and some of these prejudices remain
+since – after all – materialism is still the standard worldview of the academician.
+Now in the 80s this started to change, and we start seeing a new crop of scholars emerging,
+one of these being Wouter Hanegraaff, the current appointee of the History of Hermetic
+Philosophy and Related Currents in Amsterdam – other big names in the field are Antoine
+Faivre and Kocku Von Stuckrad. I think the 1960s, the New Age, LSD, and Post-Modernism
+served to soften everyone’s hearts in regards to studying such ostensibly “nonsense”
+material – and of course, this is a good, not a bad thing. Now here we start seeing
+a real acceleration in the quantity of quality publications, but one idea starts to emerge,
+and that is that (etymology aside) esotericism is to be understood as a body of “rejected
+knowledge” – obviously the more traditional “Otherness” also comes to mind – Esotericism
+is a kind of “significant other” of post-Enlightenment identities. Now this differed from the way
+Antoine Faivre had done things, which was more so to circumscribe Esotericism with fixed
+characteristics (or “correspondences”): [quote] “i) the presence of symbolic or
+real correspondences between beings within the universe, such as the idea of macro- and
+microcosm, or the doctrine of astral influences); ii) “living nature” (i.e. envisioning
+nature as endowed with its own life force, which is declined in a plural or complex form);
+iii) “imagination” (in the form of tools that provide access to a superhuman realm,
+by means of rituals, symbolic images, mandalas, intermediary spirits; and iv) “transmutation”
+(that is, the spiritual experience of transformation typical of the attainment of gnosis). [And
+then] To these he added two more secondary characteristics: “concordance” ( root
+from which all world religions and spiritual practices stem) and “transmission” (the
+idea that esoteric disciplines can be taught by a master to a disciple). Now the problem
+here is that what happens when the particular strand of occult gobbledygook you’re reading
+doesn’t fit into all these categories? Does that mean that it doesn’t fit the mould
+of Western Esotericism? How useful are these circumscriptions if they are not universal
+to all disparate branches of Esotericism? Naturally, something had to be done to make
+“Western Esotericism” more flexible of a label, not just a bunch of disparate strands
+held together by virtue of a scholar who likes lumping more than splitting...
+Alright well, with that out of the way, the first article I want to examine is called
+“The problems of rejected knowledge: thoughts on Wouter Hanegraaff’s Esotericism and the
+Academy” by Marco Pasi Passi opens up his discussion by first summarizing
+the thesis of Wouter Hanegraaff’s ‘Esotericism and the Academy’ and here’s what he says:
+“[that] the concept of Western esotericism has its roots in the ancient-wisdom narrative
+that takes shape in the intellectual cauldron of Late Antiquity and which is revived in
+the Renaissance through authors such as Marsilio Ficino and Giovanni Pico della Mirandola.
+Later, this ancient-wisdom narrative mutates into a negative model, starting especially
+from the 17th century, when it is adopted by Protestant theologians who use it in the
+framework of their anti-apologetic agenda. This model, with all due adjustments, then
+becomes a tool to conceptualize what these authors perceived as the inﬁltration, throughout
+the centuries, of Pagan beliefs and ideas into the original purity of the Christian
+message. Slightly later, from the late 17th century on, an alternative theological model
+of conceptualization of these various heterodox currents as a single phenomenon emerges, in
+this case perceived again in a positive light. This model is not based on the ancient-wisdom
+narrative, but is rather inﬂuenced by Pietism and ‘is grounded in the centrality of direct,
+unmediated, personal experience of the divine’. This model is also soon opposed by a negative
+one, which is the by now increasingly secular model of the Enlightenment, based on the idea
+that these phenomena – corresponding to what we now call Western esotericism – are
+none other than manifestations of ‘superstition’ and ‘human folly.’ According to Hanegraaff
+all these models had a long fortune in the history of Western culture and are essential
+to understanding the origins of the concept of Western esotericism, its historical development,
+and the ideological interests it has served. Hanegraaff claims in fact that these models,
+far from disappearing completely in the sands of history, are at the origin of some basic
+approaches not only to the study of esotericism, but even more generally to the study of religion,
+which have been prominent in the landscape of 20th-century scholarly research. In other
+words, Hanegraaff sees the model based on personal experience of the divine as the distant
+progenitor of the so-called ‘religionist’approach, whereas the Enlightenment approach based on
+ridiculing superstitions would be (although I do not see this stated explicitly in the
+book) at the origin of a reductionist approach. Predictably, for those who are familiar with
+his previous works, Hanegraaff makes it clear that both these approaches are problematic,
+because they are based on positions that are ideological rather than empirical and essentially
+non-historical’” – end quote. Alright, so now we’re on some firmer footing
+in regards to what we’re actually talking about, which is the grand narrative of Western
+Esotericism, as explained to us by Wouter Hanegraaff. Now the problem that Marco Passi
+has with this approach, is that, like many recent books that cover themes which are close
+to Western esotericism (like ‘gnosticism’ or ‘magic,’) it shifts the focus away
+from the object of study in and of itself (which tends to be softened in order to eliminate
+all risks of ‘essentialism’), and moves it toward a historiographical analysis of
+how this object has been traditionally conceptualized, constructed, and therefore quote-unquote ‘essentialized.’
+(p. 204) So, in other words, what Passi is saying is that Hanegraaff sets up an umbrella
+term that doesn’t actually exist as a concrete thing in history, then starts putting a bunch
+of historical events or ideas and puts them under the umbrella and says: “Behold! Western
+Esotericism” without actually giving a definitive criteria of what gets let in and what doesn’t.
+It’s kind of like a form of putting the cart before the horse. I myself am guilty
+of doing this with the Encyclopedia Hermetica, for example, whereby I haven’t so much been
+looking at Hermeticism directly, so much as what I consider to be its constituent parts.
+This is, in a sense, a historical faux-pas. Now, I didn’t put the Encyclopedia Hermetica
+together with the same level of rigor that I would have applied to a scholarly publication,
+it’s more of a primer for people to get their feet wet, so it’s not really begging
+for this type of scrutiny – Hanegraaff doesn’t get off so easily, however. And that’s the
+name of the game: publish or perish, and have your work ripped apart by others who are also
+living by the same maxim. I should add that I’m pretty sure all or most of these scholars
+are friends in real life, so if anything seems overly vicious, know that everything is said
+in good faith. Now another point Passi raises regards Hanegraaff’s
+use of the term ‘Platonic Orientalism’ (which we explored in much detail in the last
+lecture). Passi says this, and I quote, “When discussing the model of the ancient-wisdom
+narrative, Hanegraaff introduces this term and explains that it is useful to indicate
+the widespread idea [emphasis is mine] in ancient Greek culture that religious wisdom
+did not have indigenous origins, but had been imported from ‘barbarian,’ i.e., non-Greek,
+sources. Hanegraaff points out that ‘Platonism understood as ancient “divine wisdom derived
+from the Orient” is precisely what characterizes the currents and textual traditions under
+discussion here, and this fact has long been known to specialists’ (Hanegraaff 2012:
+15). The term ‘Platonic Orientalism’ is therefore used throughout the book to indicate
+this particular concept, which is not limited to Antiquity, but ﬁnds a new life with the
+Renaissance (with ﬁgures such as Gemistos Plethon). While the underlying notion of ‘ancient-wisdom
+narrative’ seems to me to be a very important, useful tool, I ﬁnd the term ‘Platonic
+Orientalism’ rather problematic for several reasons. First of all, Hanegraaff is borrowing
+here a concept that was in my view already problematic and confusing in the way it was
+deﬁned by John Walbridge, who ﬁrst proposed it. At the beginning of his [book] Wisdom
+of the Mystic East, where he explains his usage of the term, Walbridge points out that
+Suhrawardī’s project of reviving ‘the wisdom of ancient Iran’ can be better understood
+as deriving from a form of ‘Orientalism,’ which is ‘a more general fascination with
+ancient wisdom of all kinds’. He then adds that ‘this Orientalism is best understood
+as a perennial Platonic trait’ Walbridge cannot then avoid referring brieﬂy to Edward
+Said (Said 1978), whose Orientalism he criticizes on the whole, but from whom he is willing
+to borrow the idea of a ‘romantically conceived’ Orient, made of ‘unchanging, fuzzily conceived
+exotic ancient lands of wisdom, spices, and fabulous kings’. Walbridge therefore applies
+this notion of ‘Orientalism’ as ‘perennial Platonic trait’ to Suhrawardī, in trying
+to understand ‘his veneration of the ancient Orient of Hermes, of the ancient Persian sages
+of legend, and of India’. The question that is not asked in the book, and therefore also
+never answered, is whether the ‘Orient’ we are talking about is Suhrawardī’s Orient
+or rather our own. Does Suhrawardī’s have any concept of a ‘romantic East’ of his
+own, or are we projecting ours onto him? In what sense could the ‘ancient Persian sages’
+be ‘Oriental’ for an author such as Suhrawardī who is also a Persian? And in what sense would
+Egypt be ‘Oriental’ if – at least geographically speaking – it would actually be a Western
+land for him? Edward Said’s famous Orientalism described a phenomenon which, even if it has
+its roots in the past, is essentially modern.” (p. 206) – end quote.
+Now I think this is pretty legitimate criticism, but I can hear Hanegraaff in my head right
+now saying “I am not talking about Said’s Orientalism” and such are the dangers implicit
+in using a loaded word – you’re going to constantly be swatting people away who
+are trying to get you to talk about Said. Now, here I’m going to let Hanegraaff speak
+for himself – here’s what he says in his article (in the same journal) in response
+to criticisms against his use of the term Platonic Orientalism:
+“If I understand them correctly, their objections are ultimately based on the assumption that
+such a term implies an essentialized category of ‘the Orient.’ Such an essentialization
+of ‘East versus West’ is, as they point out, a 19th–20th century phenomenon (heavily
+indebted, of course, to evolutionist and colonialist narratives) and therefore leads to anachronistic
+distortions if projected back onto Late Antiquity or the Renaissance. With this I fully agree
+– a rejection of essentialism and present-centered historiography runs like a red thread through
+my book – but the point is that ‘Platonic Orientalism’ as I deﬁne it is not necessarily
+or inherently related to any belief in an essentializing East–West distinction. For
+instance, I do not imply that an author such as Numenius saw the ‘peoples of high renown’
+(the Brahmans, Magi, Egyptians, and Jews) to whom Plato was indebted as parts of one
+essential unity of ‘Oriental’ thought, opposed to an equally uniﬁed ‘Occident’
+represented by the mindset of Greece and Rome: this is indeed a modern projection. But I
+do claim that those ancient nations, which geographically just happened to lie in the
+east, were all categorized as ‘barbarian’ nations by the Greeks, because of their languages;
+and that the strange and unfamiliar customs of these distant peoples lent them a certain
+aura of mystery that could in still fear or fascination, or both. None of this is controversial,
+as far as I know; but most importantly, none of it implies an essentialization of ‘the
+Orient’ as a monolithic whole… However, it is indeed true (and perhaps this is what
+creates the confusion) that the entire ancient-wisdom narrative is grounded in a powerful rhetoric
+of unity and essence: not necessarily a unity and essence of the Orient as such, however,
+but certainly one of divine wisdom and revelation. In sum: that divine wisdom had reached us
+from some mysterious place in the east does not need to imply that it had come from the
+east. I understand and appreciate that the legacy of (post) colonialism has caused an
+extreme sensitivity towards any term that has ‘Orient’ or ‘Orientalism’ in it,
+but I believe we should not allow ourselves to be held hostage forever, in our terminological
+choices, by the long shadows of scholars such as [Franz] Cumont or [Edward] Said, or for
+that matter by postcolonial discourse. The latter may have tended to claim a monopoly
+over the term ‘Orientalism,’ but in fact it is doubtful whether the supposedly universal
+notion of a reiﬁed ‘East’ versus ‘West’ was ever so universal even in the 19th century.
+Therefore I reserve the right to deﬁne ‘Platonic Orientalism’ in a precise and non-essentialist
+manner if this helps me better understand what was going on in Late Antiquity or the
+Renaissance.” (p. 260) [End Quote] Now one of the reasons I’m letting these
+guys speak for themselves is that they have a much clearer understanding of what they
+mean, and can elucidate it in as few words as possible without muddying the picture.
+I don’t know about you, but that’s about as clear a rebuttal as any – so let’s
+carry on in this fashion going back and forth between criticisms and answers.
+Next up we’ve got the article “Some reﬂections on Wouter Hanegraaff’s Esotericism and the
+Academy” by Giovanni Filoramo Now one of the chief criticisms levied by
+Giovanni Filoramo is not all too different from Marco Passi’s – it concerns Hanegraaff’s
+use of the label “Platonic Orientalism” instead of something more traditional like
+“gnosis.” Many of his concerns are addressed in the response I just gave in quoting Hanegraaff
+(who wrote that response to answer not only Passi’s criticisms, but Filoramo’s aswell),
+but I should at least do him justice and present some of what he said:
+[Quote] “In order to highlight the problematic nature of the category of ‘Platonic Orientalism,’
+it sufﬁces to take the example of the way in which the category of ‘oriental religions
+and cults’ – introduced a century ago by Franz Cumont – has been deconstructed
+in the last 20 years. This category – back then certainly innovative – derived, on
+the one hand, from a reading of the evolutionary history of religions that tended to see in
+Christianity the culmination of polytheism, and on the other hand, from a ‘colonialist’
+vision of a strange and alien East, both fascinating and disturbing... Against this background,
+the category of ‘Platonic Orientalism’ raises issues: what exactly was meant by ‘the
+East’ at the dawn of the 4th century CE? The operation carried out by authors such
+as Porphyry and Iamblichus – certainly of paramount importance in the construction of
+the ancient concept of prisca theologia – intended to merge the most diverse aspects of the countless
+religious traditions of the empire, regardless of their geographical location. For an author
+so signiﬁcant in this tradition as the Emperor Julian, what mattered was the unity of Greek
+paideia, which he intended to restore in his own way, against the threat posed by a typical
+Eastern religion such as Christianity… The Christian and pagan authors mentioned by Hanegraaff,
+from Celsus to Porphyry and Eusebius, are all, in terms of geography and language, Oriental.
+But what unites them beyond the obvious differences of faith is not this, but rather the transformation
+of philosophy – already attested to by the middle of the 2nd century and featuring common
+elements in authors such as Justin and Celsus – from a rational search for truth based
+on dialog and confrontation, into a way of life rooted in an ageless, primordial revelation.
+(p. 214) [End Quote] So this is a serious criticism, namely, “what
+do modern colonial categories have to tell us about Late Antiquity” – Hanegraaff
+admits this is problematic, but he also reminds us that the entire ancient-wisdom narrative
+is definitely grounded in a powerful rhetoric of unity and essence: not necessarily a unity
+and essence of a reified and monolithic Orient, but the unity and essence of revelation itself
+– so he posits that the idea that divine wisdom had reached the Greeks from some mysterious
+place in the east does not need to imply that it had actually come from the east, but that
+it came as an idealistic package. Now I don’t know if this qualifies as moving the goalpost,
+but by and large he also thinks people are just too sensitive about the word Orientalism.
+Now… before moving on to some different criticisms, I’d like to quote something
+Filoramo writes – and I think this is his closing nod of approval that, despite his
+criticisms, Hanegraaff does great work – this is what he says:
+Without embracing a religionist and essentialist thesis, one can still work with a historicist
+perspective, being aware of the existence of forms of thought that can pre-exist their
+historical manifestations, without having to assume an ontological or metaphysical foundation.
+(p. 219) So, in other terms what Filoramo’s saying
+is that despite all the criticism he gives, he believes that we actually can, without
+having to “go native” and become die-hard believers or out of control idealists, explore
+different peoples from different periods of history on their own terms while still using
+guiding principles like “Platonic Orientalism” or “Western Esotericism” without having
+to justify them as concretely “real” things – and I think Hanegraaff’s work is proof
+of that. Alright, well moving on – the next article
+is called (and I love this title) “Discourse theory trumps discourse theory: Wouter Hanegraaff’s
+Esotericism and the Academy” by Bernd-Christian Otto. This one is particularly interesting
+because it’s quite different from the first two critiques. What this article does is claim
+that Hanegraaff’s problem is that he sees himself as a historian, but in reality, he’s
+just one of those filthy post-modernist Foucault-worshipping “discourse theoreticians” (Bahhh! …I
+jest). To Otto, this is not an insult… but to a proud historian (especially one with
+a distaste for po-mo lit-crit), it stings. In his own words, Otto writes:
+“…that the author is not willing to classify his own approach as such is explained with
+recourse to his dispute with Kocku von Stuckrad, who, according to Hanegraaff, would embody
+discourse theory, whereas Hanegraaff would embody history. A comparison of Hanegraaff’s
+Esotericism and the Academy: Rejected Knowledge in Western Culture (Cambridge University Press,
+2012) and von Stuckrad’s Locations of Knowledge in Medieval and Early Modern Europe: Esoteric
+Discourse and Western Identities (Brill, 2010) reveals that this is a misleading classiﬁcation
+and that Hanegraaff’s study comes closer to what discourse theory is all about. As
+a consequence, Esotericism and the Academy is the very ﬁrst study on ‘Western esotericism’
+that offers a convincing justiﬁcation of this particular label as an overarching discursive
+category… He continues:
+Even though Hanegraaff himself appears to be cautious while putting the label to use,
+he presents overwhelming evidence for the interconnectedness of Western discourses about
+Plato, Hermes, Pythagoras, Zoroaster, or Orpheus, about the Chaldeans, Templars, Rosicrucians,
+Illuminati, or Theosophers, about magia naturalis, alchemy, astrology, mesmerism, occultism,
+or parapsychology from the 15th to the 21st centuries, be they from ‘polemical’ or
+‘religionist’ perspectives. Hanegraaff’s fascinating synopsis of the entire ﬁeld
+in all its complexity and diversity yields the conclusion that there is a meta-structure
+that holds all these seemingly disparate ‘strings’ together. (p. 232)
+Now the problem is that Hanegraaff – ostensibly repping the position of the Historian - rejects
+von Stuckrad’s claim that only “discourse theory” can solve the riddles endemic in
+the concept of ‘Western esotericism. And here’s why, in Hanegraaf’s own words:
+“The problem lies in an exclusivist and reductionist subtext that automatically devalues
+“contents and ideas” in favor of “structures,” makes history subservient to theory, and ends
+up promoting discursive approaches as the only valid methodology in the study of religion,
+esoteric or otherwise’ (365)”. In other words, discourse theoreticians force their
+work through a filter, or a mould – they make the sources say what they want them to
+say - whereas historians coax their work out of the sources (they listen to what the sources
+have to say). But ultimately, I think Otto is invoking that
+old Nietzschean maxim that if you battle with monsters you may yourself become one, and
+if you stare into the abyss of post-modernism, the abyss of post-modernism stares back into
+you. He says: [quote] “Hanegraaff portrays discourse theory
+as a rather destructive tool that stands in the way of true historical research. When
+applying the method, he claims, ‘it is not just the term “esotericism” that vanishes
+as a useful concept, but much of the historical material will vanish as well!’ (365). Finally,
+Hanegraaff maintains that history ‘trumps’ theory (as if the two would exclude each other)
+and that good historians shouldn’t allow ‘philosophy to paralyze them’ (366). Given
+these statements, one is not surprised to see Hanegraaff bashing Foucault in various
+instances… Hanegraaff’s monograph systematically implements an observation only alluded to
+by von Stuckrad: that basic genres of ‘esoteric discourse’ such as ‘the disciplines of
+astrology, alchemy, and magic, [...] have been “distanced away” by what I call the
+processes of disjunction since the 18th century’ and thereby functioned ‘as a “signiﬁcant
+Other” of post-Enlightenment Western identities’ (von Stuckrad 2010: 200). While von Stuckrad
+lacks a systematic elaboration of this phenomenon in his Locations of Knowledge, Hanegraaff’s
+Esotericism and the Academy not only offers overwhelming evidence for these ‘processes
+of disjunction,’ but also falsiﬁes von Stuckrad’s claim that they started only
+in the 18th century. To the contrary, Hanegraaff traces back polemics against the ‘ancient-wisdom
+narrative’ to the early 1500s (when, for example, the very nephew of Giovanni Pico
+della Mirandola, Gianfrancesco Pico della Mirandola, attempted ‘to destroy what his
+uncle had built,’ by means of his Examen vanitatis doctrinae gentium) and convincingly
+unveils the complex discursive interconnections between these early polemics against Platonism
+and various later polemics against offshoots such as magia naturalis, alchemy, or the ‘occult
+sciences’ (164–207). [OK and here is the meat of Otto’s argument] Taking these observations
+into account, Hanegraaff’s study could indeed be understood as a genuine discourse analysis
+of power relations in regard to the ﬁeld of ‘Western esotericism,’ of the latter’s
+construction as the respective ‘other’ of both European religions (mostly Christianity)
+and science and, ﬁnally, of afﬁrmative counter-reactions by people who, at some point,
+started identifying themselves with these various forms of ‘rejected knowledge.’
+So, in other words, “buddy – you’re a discourse theoretician, why you gotta be
+such a hater?” As if Hanegraaff would read this and go “Oh GOD I KNEW IT ALL ALONG!
+I’M A DEVIANT!” Alright, well in all seriousness, these are
+Otto’s accusations – I mean, “observations”: (1) Hanegraaff uses the word ‘discourse’
+extensively throughout his work, and he’s not using it in its everyday understanding
+of the term (that is, as “dialogue”). Rather, Hanegraaff is getting real buddy-buddy
+with Foucault, employing ‘discourse’ as the sum of all statements (generally in texts
+for historians) that form “a coherent terminological and argumentative structure” which gives
+a kind of flavour to any single given statement formulated in that text – it’s like a
+fractal that is self-similar across scales, and yet the whole is ever greater than the
+sum of its parts. Otto holds that Hanegraaff’s Esotericism
+and the Academy appears as [quote] “the very ﬁrst volume that systematically
+addresses the overall issue of power ingrained in the (discursive) ﬁeld of ‘Western esotericism,’
+thereby outlining its inherent structure and problematics in a much more elaborate way
+than has been done thus far (especially by taking both ‘polemical’ and ‘religionist’
+narratives into account). When Hanegraaff writes that history should ‘trump’ theory
+(p. 366), he overlooks that his own narrative is the very outcome of theory, namely, of
+his systematic adoption and deployment of numerous discourse-theoretical methologems…
+That discourses produce their ‘objects’ is one of the essential postulations of Foucauldian
+discourse analysis and one is stunned by the fact that Hanegraaff uses formulations very
+similar to Foucault’s original phrasing. Hanegraaff’s interpretation of a large number
+of authors in Esotericism and the Academy indeed shows his de-essentializing, constructivistic
+approach that ﬁnally leads to the claim that ‘“Western esotericism” is an imaginative
+construct in the minds of intellectuals and the wider public, not a straight-forward historical
+reality “out there”’ (p. 377) Apparently, Hanegraaff’s analysis of discourses
+about ‘rejected knowledge’ begins with the early-modern reception (George Gemistos
+Plethon, Marsilio Ficino, Pico della Mirandola, and others) of various ancient (mostly Platonic
+and Neoplatonic, but also ‘kabbalistic’) textual corpora. Thus, the discursive category
+of ‘Western esotericism’ arises, according to Hanegraaff, by means of counter-reactions
+to these ‘ancient-wisdom narratives’ and thereby seems to constitute a genuine, if
+not unique, aspect of early-modern and modern European history. (p. 239)
+Now, this is beautiful criticism, but I must say, Hanegraaff just looked at all this and
+said “OK, then I am a historian who uses ‘discourse theory’ as one of the many
+tools in my toolkit,” and since, like Otto said himself, the two need not be mutually
+exclusive categories (that is, historian and discourse theoretician), then one can (and
+should) ideally be both, with the reiteration of the caveat that “history trumps discourse.”
+(a statement which obviously Foucault would have rejected).
+OK – moving on, we’ve got our last critique, and this one is my favourite. I should say
+from the outset, I had a good laugh when I first read this article, because I didn’t
+look at who wrote it before I read it, and as I was flipping through the pages I kept
+thinking to myself that “It’s easy to think with a Hammer” (in the sense that
+it is always easier to tear down than it is to build) – and lo and behold, I check the
+name of the author, and it’s Olav Hammer! So there you have a fun little synchronicity
+I experienced… now let’s get into what Hammer actually says – so the name of his
+article is “Deconstructing ‘Western esotericism’: on Wouter Hanegraaff’s Esotericism and the
+Academy.” This introduction is brilliant, but I think
+it has issues which I’ll outline later: [quote] “Esotericism and the Academy reminds
+me strikingly of a book I once read (and the title of which, at a distance of more than
+30 years, now escapes me), dealing with a very different topic: an anthropological study
+of business management. Top-level executives of various ﬁrms typically made ad hoc decisions
+prompted by the day-to-day activities of their companies. When asked in retrospect how they
+had built up their organizations, this rather haphazard meandering was curiously transformed
+into the story of long-term visions implemented by means of deliberate management strategies.
+The development of a ﬁeld of ‘Western esotericism’ in Hanegraaff’s narrative
+is similar: a very diverse set of practices – defended or rejected for very different
+reasons by very different groups of people at very different times – ends up constituting
+a diffuse ‘something’ with few if any internal characteristics that serve to deﬁne
+it. With the exception of some hints at the end of the book, little seems to unite, say,
+alchemy, the quest for a hidden macro-history, and astrology, except that some powerful and
+trendsetting individuals at various points in time declared that they were vehemently
+opposed to all of these pursuits. Historical contingency reigns supreme” (p. 242) [skipping
+some pages] …Divergence and semi-arbitrary demarcations are the consequences of seeing
+‘esotericism’ as an umbrella concept that slowly emerges when a mass of events are looked
+at in hindsight: just like the managers who performed their daily tasks in a rather ad
+hoc manner, but saw the outcomes a predictable result of a managerial strategy, ‘esotericism’
+is the end result of countless individuals involving themselves in polemics over a number
+of wildly diverging topics, and later generations seeing the result as more coherent than is
+warranted by the material. (p. 244) Alright, so this is a brilliant analogy, and
+I just love how mundane it is too… now my problem with it is this: firstly, can things
+not be determined apophatically? Can we not come to know what a thing is by carving away
+at what it is not? I think after all, this is ultimately what Hanegraaff is saying when
+he refers to “Western Esotericism” as a “waste basket” of ideas. But my main
+problem with Hammer’s ideas here are that you can literally apply this deconstruction
+to anything: Rome, Platonism, Scholasticism, Chivalry, Islam, whatever – Existence precedes
+essence – there is nothing but the sum of ad hoc decisions made in real time, which
+are then reconceptualised in hindsight. So why bring it up? Now I say Islam, because
+that’s quite literally the example he uses as a counter-point to “Esotericism.” This
+is what he says: There seems to be practically nothing that
+unites all expressions of ‘esotericism.’ ‘Esotericism’ dissolves into an array
+of individual, repeatedly changing elements, utterly malleable across time. I would call
+this a consequence of radical historicism, rather than a drawback. This is, nevertheless,
+a very different way of deﬁning a religious phenomenon, current, or tradition than one
+usually ﬁnds in scholarly literature on religion. Most commonly, despite various disclaimers
+suggesting that traditions such as, e.g., Islam or Buddhism, are very ﬂexible and
+lack easily identiﬁable core characteristics, some attempt is usually made to nonetheless
+deﬁne and delimit the tradition in question. Such deﬁnitional endeavors tend to go in
+either of two directions. One approach, the historical, is to identify core historical
+events that have shaped all (or nearly all) manifestations of the tradition. For Islam,
+that could be the prophetic career of Muhammad, the turbulent events that took place after
+his death and involved the identity and leadership of the community of believers, and the emergence
+in the brief space of the 9th and 10th centuries of paradigmatic commentarial, theological,
+ritual, and legal traditions. Muslims may have widely divergent views of who Muhammad
+was, but will agree that he was the fulcrum around which salvation history has revolved.
+(p. 242) The other approach is synchronic: a tradition
+can on this view be deﬁned by identifying substantive elements that are widely shared
+(even if perhaps not universal) at a given point in time. Again for Islam, almost all
+self-professed Muslims have at least a nominal acquaintance with the Qur’an, and with even
+a modicum of education, will treat a core set of commentarial, theological, and ritual
+elements as part of a corpus that needs to be taken into account. Hanegraaff’s approach
+seems to acknowledge that neither method is readily applicable to ‘Western esotericism.’
+Its elements are widely divergent, to the point of being mutually contradictory, and
+arose over the entire span of Western intellectual history, from Antiquity to today, via a process
+of historically contingent accretion. Even elements that previous scholarship has attempted
+to unite are here sundered: the ‘occult,’ for instance, is in Esotericism and the Academy
+deconstructed as a pseudo-category. (p. 243) Now my problem here is that the very deconstruction
+he’s applying to Hanegraaff can he applied to deconstruct his deconstruction… he’s
+saying Hanegraaff has one way of history, but that this doesn’t match the two modes
+(the ‘historical’ and the ‘synchronic’) which he recognizes as legitimate. Now where
+this legitimacy emerges from, (tradition? Institutional authority?) I don’t know – what
+makes his way of doing history superior – I don’t know. These modes are not justified,
+merely prescribed. Why should Hanegraaff, or anyone for that matter, be bound to use
+these two modes Hammer suggested? I believe you can press on any definition hard enough
+to make it break, but you can do it to anything to the point where you risk breaking the usefulness
+of language, leaving us all lapsing into solipsism. Is a nebula not a real thing just because
+it is nebulous? Now, let’s accept for a moment that these
+two modes, the historical and the synchronic are indeed superior – couldn’t we just
+find one of these events or element hinge esotericism off of that? Hammer gives us the
+following lists, and pretends as if there isn’t a glaring commonality between all
+these things: “the Swedenborgian Church, spiritualism, Jungian spirituality, the Theosophical
+Society, the Anthroposophical Society, Gurdjieffinspired groups, the Church Universal and Triumphant,
+Wicca and a host of similar neo-Pagan currents, the New Age, several Rosicrucian orders, the
+Human Potential movement, occultist magic, various New Thought denominations, Satanism,
+several UFO religions, and Traditionalism.” Hammer claims all these are movements that
+do not share even a single ritual or doctrine, and that they all function in sociologically
+very diverse ways. (p. 243) Well… frankly, I disagree, because to me it’s perfectly
+clear that all of these groups are unified, more loosely by the bracket of “Idealists”
+but more narrowly by the shared element of gnosis/personal revelation. They may all have
+different content within their revelations, but the point is they all believe in the primacy
+of first-hand experience of the divine, or “higher wisdom” which is supra-rational,
+and not universally (or even popularly) apprehended. Just because Hammer doesn’t see this element,
+doesn’t mean it’s not there… so I again, I ask what makes Hanegraaff’s work on Esotericism
+any different than a work on “Greek Philosophy” or even “Islam” for that matter – who
+sets the criteria on how “tight” or “concrete” these subjects of inquiry need to be before
+engaging in them – cuz if it’s self-evident, it isn’t evident to me by the same logic
+that is used to deconstruct “Esotericism” – this is a gripe I have with deconstructing
+things – when does it stop? And why? Hammer accuses Hanegraaff of “circumscribing,
+not defining” – and I wonder if there’s actually a difference when it comes to concepts.
+Could Hammer define Islam for me? Or would he circumscribe it? Sure we can define a triangle,
+but can we define a collection of ideas? Hammer says himself in defining the two “proper”
+modes of historical inquiry, traditional scholars attempt to “define and delimit” these,
+but can “Islam” really be pinned down to a pithy definition, or rather can it only
+be delimited? (by the way, I’d like to point out that “delimit” and “circumscribe”
+effectively mean the same thing here, albeit “circumscribe” is being loaded with a
+pejorative sense and used as a reproach to Hanegraaff, whereas “delimit” is being
+used with a positive sense. So in the end, I question the usefulness of deconstructing
+“Esotericism” if you’re going to give Islam as your example of something scholars
+have pinned down concretely. I would love to sit down with Hammer and hash out just
+exactly who is, and who is not a Muslim – we’d find it quite difficult to come to any agreement,
+but in the end, would we walk away from it saying that Islam must not be a real thing?
+Just like Muslims, I think “Esotericists” would disagree on certain points, but by and
+large they would all recognize one another as heterodox mystics of one strain or another,
+each of whom are in dialogue with a “hidden knowledge or ancient wisdom”, whether it
+be traditional in actuality or merely idiosyncratic. I don’t think that’s so nebulous as to
+be non-existent. I think another one of my problems is that in these discussions, Esotericism
+is being likened to a religion onto itself, and then criticized on those terms – it
+is not a religion, it is a pursuit of interiority which can operate within any given religion
+(such as Christian Kabbalah, or Islamic Battinism). Esotericism must be understood by what it
+is not, and it is not the communal, external dimensions of religion (aesthetics, architecture,
+ritual, community binding, festivals, etc.). The reason most Buddhists don’t have much
+in common with Buddhist monks is because they aren’t dedicated to the esoteric dimensions
+of Buddhism like the monks are… They are monks by virtue of their “esoteric” (part
+of an inner circle) interests. In any case, these are MY concerns – and they may or
+may not be misguided, and I’m sure Hammer would have some answers, but these would probably
+only beg more questions ad absurdum – such is the nature of the game – but in any case
+Hanegraaff’s concerns are different. Before switching back to his final words on
+the debate, I’ll give one last quotation by Hammer, because I think it’s bang on,
+and I think it serves as a warning to us all: [quote] “One reason why the atomism of radical
+historicism has gained such a strong foothold in academia more generally is that comparativism
+was wielded with indiscriminate gusto by writers such as Eliade, a man specializing in no particular
+tradition but willing to draw parallels between all and any, or various post-Freudians [*ahem*
+Jung/Campbell *ahem*] who assumed that Procrustean reading could reduce myths from all around
+the world to a small set of universal themes. Though it would carry too far and demand too
+much space to defend universalizing theories, it is a readily observable fact that there
+is in the study of religions once again an increasing readiness to accept wide-ranging,
+comparative theories. (p. 246) Alright! Well, let’s wrap this up and move
+on to the final article “the power of ideas: esotericism, historicism, and the limits of
+discourse” by Wouter J. Hanegraaff. Hanegraaff starts out by setting up a dichotomy
+between his critics, between the “pure historicism” approach of Giovanni Filoramo on one side
+of the spectrum, and on the other side, Olav Hammer as ‘the theory guy’ (for whom theory
+trumps history, not vice-versa). Hanegraaff claims it’s impossible for him to make a
+choice for either of these two alternatives, and this is why:
+[quote] The reason is that in my way of doing intellectual history, I am essentially a Kantian:
+I believe that ideas are empty unless they appear in concrete empirical and historical
+realities, and blind unless we pursue their structural logic. Within the dialectics of
+that constellation (no theory without empiricism, no empiricism without theory), my work is
+source-driven rather than theory-driven: everything begins for me with studying empirical source
+materials in as much detail as possible. However, my very understanding of empiricism is informed
+by the quintessentially Kantian insistence (prominent also in Max Weber) on the active
+role of the knowing subject: there can be no doubt, of course, that theoretical reﬂection
+comes into play already before selecting and interpreting sources, or is implicit in that
+very activity. (p. 254) [end quote] He continues:
+[quote] …Stripped to its very core, my book tries to tell the story of how Christian intellectuals
+and their post-Enlightenment heirs have been trying to deal with a problem that could not
+be resolved and refused to go away. In its original form, this problem was the presence
+of ‘pagan’ Hellenistic speculation in an intellectual culture nominally grounded
+in biblical revelation. It constituted a problem because ‘paganism’ could not be wholeheartedly
+embraced and accepted, since it stood for the very thing that both Jews and Christians
+were supposed to reject, but could not be gotten rid of either, because it happened
+to be integral to the very theological fabric on which Christians relied to explain what
+they and their religion were all about. I am arguing that the never-ending (because
+ultimately hopeless) project of resolving this dilemma – to call it ‘diabolical’
+would be an obvious pun in this context – constitutes one of the most fundamental ‘deep structures’
+of Western intellectual history. Not only is it crucial to the constitution of Christian
+identities since the Church Fathers, or the confessional battles unleashed by the Reformation
+in its battle with the Church of Rome; but, through the mediation of 17th-century Protestant
+polemicists (the so-called anti-apologists, see below), even the rhetorical construction
+and establishment of Enlightenment identities and the closely related project of disenchanting
+the world through science and rationality are still variations on the very same theme.
+In other words, my book is ultimately about the longue durée of a fundamental problem
+(or more precisely, of attempts to respond to it) that has haunted Western culture from
+the ﬁrst centuries to the present. (p. 256) [End Quote]
+Now here Hanegraaff goes on a little digression, which I find very endearing, because it seems
+I experienced the same story. He tells us how he got interested in this “forgotten
+continent” of thought in Western culture, which nobody around him ever took seriously.
+His initial curiosity began with the New Age bookshops popping up everywhere throughout
+the 70s and 80s – when he came to realize that nobody (and this is an exaggeration on
+his part) had taken the trouble to actually read and analyze the texts at the source of
+the new age (in my opinion, to say nobody read Donnelly, Blavatsky, Aleister Crowley,
+Manly P. Hall, etc. is just patently wrong – obviously the New Age had to start somewhere,
+and it wasn’t on TV - but let’s move on). What I’ll give Hanegraaff is this: people
+definitely had not been trying to put them within any kind of historical context. He
+says that during that time, the New Age was seen as something for outsiders or the media
+to poke fun at, but not as a form of popular religion that should be taken seriously in
+any way. And here’s where Hanegraaff’s story is similar to mine: He simply couldn’t
+understand why this was the case – it was not that he was in any way impressed by New
+Age ideas – it was moreso that he’d found the theological underpinnings of his own Protestant
+up bringing at least as bizarre. He writes: I had been told that God has fathered a son
+(without a mother in sight, but with the help of a virgin), who then proceeded to save humanity
+by dying on a cross and rising up to heaven. None of that made any sense to me. Why, I
+asked myself, would such a wildly improbable story be considered more ‘serious’ and
+‘respectable’ than other admittedly far-out ideas, involving such things as reincarnation,
+channelled entities, or ascended masters? All of it was pretty strange, to be quite
+honest. I saw the taken-for-granted distinctions between ‘serious’ and ‘non-serious’
+religion as simple prejudice, and I still do. Now, these early conclusions of mine could
+have made me into a sceptic debunker, but instead they turned me into a scholar of religion.
+I might not share these beliefs, but I have never (well…almost never) felt an impulse
+to ridicule the more dismiss them as non-sense, perhaps because the question of their ultimate
+truth did not strike me as particularly interesting. Rather, they fascinated me as creative products
+of the religious imagination, and I genuinely wanted to understand why people would come
+to hold such interesting beliefs. [end quote] It’s for this reason that I even started
+the Encyclopedia Hermetica myself, and doubtless Hanegraaff started out on his journey to get
+a finger on the history of the New Age… and let’s just say the New Age was merely
+the very tip of an extremely deep iceberg. What he ultimately found while scratching
+away at the New Age was that it was but the latest effervescence, bubbling out from Western
+Esotericism’s long history. Now different scholars had different perspectives when approaching
+the topic, along a spectrum from strongly ‘realist’ to strongly ‘nominalist’
+approaches. The Realists suggested that Western esotericism was actually a real historical
+tradition that actually existed ‘out there’ in consensus reality, just waiting for us
+to discover and study it… the Nominalist position, on the other hand, rejects all Universals
+in favour of particulars – in other words ‘Western esotericism’ is just a theoretical
+construct in the mind of scholars, and we’re merely ordering the world by naming it even
+though our signiﬁers have no intrinsic connection to the things they signify… Now trying to
+get himself out of these two extremes, in good Hermetic fashion, Hanegraaff’s strategy
+has been to go to the sources and let them speak for themselves, rather than forcing
+them to say what he wants them to say through the lens of theory. In writing about “Western
+esotericism” he was really trying to write a history of how scholars and intellectuals
+have imagined it, and why, and of course we’re all very happy that he did so . (p. 258-259)
+Alright, well that’s as far as I’m willing to go. Thanks for joining me, I hope this
+has been somewhat useful to you in your studies of Hermeticism, Esotericism, the Occult, or
+whatever – I would encourage you to look at the bibliography in the notes, and if you
+can, to do some of the reading yourself because, naturally, I can’t just reproduce all the
+arguments here, and many of them are quite sophisticated, so I didn’t want to run the
+risk of compressing them to the point of ironing out the complexities and creating strawmen.
+Now for those of you thirsty for more Hanegraaff, I think some of you who hang out around here
+would get a real kick out of his talk here on YouTube entitled “Entheogenic Esotericism”
+where he goes into some detail about the unsung historical impact of Terence McKenna! It’s
+a gem, I promise. And if for some reason you happen to BE Wouter Hanegraaff and you’re
+listening to this, please don’t hesitate to contact me, as I would love to chat with
+you – particularly in regards to hashing out how the Picatrix fits into the story of
+“Platonic Orientalism” – if you ever wanted to come on and have a chat, I’ll
+leave an open invitation for you. Good day to one and all, and thanks for listening!
+I&amp;#39;m Dan Attrell 

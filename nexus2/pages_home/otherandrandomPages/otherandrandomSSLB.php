@@ -6,6 +6,9 @@
 				<li><a href="/nexus2/pages_home/otherandrandomPages/katabasis.php">Katabasis</a></li>
 				<li><a href="/nexus2/pages_home/otherandrandomPages/anabasis1.php">Anabasis I</a></li>
 				<li><a href="/nexus2/pages_home/otherandrandomPages/anabasis2.php">Anabasis II</a></li>
+				<li><a href="/nexus2/pages_home/otherandrandomPages/TMH1.php">Humanism</a></li>
+				<li><a href="/nexus2/pages_home/otherandrandomPages/TMH2.php">Platonic Orientalism I</a></li>
+				<li><a href="/nexus2/pages_home/otherandrandomPages/TMH3.php">Platonic Orientalism II</a></li>
 				<li><a href="">Subject</a></li>
 			</ul>
 		</nav>

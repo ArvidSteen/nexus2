@@ -5,7 +5,7 @@
 	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.txt'
 	?>
 	
-	<link rel="stylesheet" type="text/css" href="/nexus2/pages_home/otherandrandomPages/TMH.css">
+	<link rel="stylesheet" type="text/css" href="/nexus2/pages_home\otherandrandomPages\TMH.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
 
 </head>
@@ -26,11 +26,11 @@
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1 class="heading">Kenosis and Katabasis - Encyclopedia Hermetica: A Big History (Part 45) Subtitles</h1>
+					<h1 class="heading">"Platonic Orientalism" - Historiographical Concepts in the Study of Western Esotericism (1/2)</h1>
 					<div class="text">
 						<p>
 							<?php
-								include 'Kenosis-and-Katabasis-Encyclopedia-Hermetica-A-Big-History-Part-45.txt';
+								include 'PlatonicO.txt';
 							?>
 						</p>
 
