@@ -17,6 +17,7 @@
 				<li><a href="/nexus2/pages_home/accuteanimalsPages/accuteanimals.php">Accute animals</a></li>
 				<li><a href="/nexus2/pages_home/politicsPages/politics.php">Politics</a></li>
 				<li><a href="/nexus2/pages_home/otherandrandomPages/otherandrandom.php">Other & Random</a></li>
+				<li><a href="/nexus2/pages_home/essoterichistoryPages/tmhPages/tmh.php">The Modern Hermeticist</a></li>
 			</ul>
 		</nav>
 		<img src="/nexus2/img/border.png">

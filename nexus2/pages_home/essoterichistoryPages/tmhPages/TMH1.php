@@ -20,17 +20,17 @@
 		?>
 
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/otherandrandomPages/otherandrandomSSLB.php';
+			include 'tmhSSLB.php';
 		?>
 
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1 class="heading">"Platonic Orientalism" - Historiographical Concepts in the Study of Western Esotericism (1/2)</h1>
+					<h1 class="heading">Humanism, Historical Consciousness, and Philosophies of the Reformation</h1>
 					<div class="text">
 						<p>
 							<?php
-								include 'PlatonicO.txt';
+								include 'humanism.txt';
 							?>
 						</p>
 

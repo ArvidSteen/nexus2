@@ -5,9 +5,8 @@
 	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.txt'
 	?>
 	
-	<link rel="stylesheet" type="text/css" href="defultStyle.css">
+	<link rel="stylesheet" type="text/css" href="/nexus2/pages_home\otherandrandomPages\TMH.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
-	<link rel="stylesheet" type="text/css" href="/nexus2/pages_home/mainStyle.css">
 
 </head>
 <body style="background-color:#999;">
@@ -21,17 +20,20 @@
 		?>
 
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/otherandrandomPages/otherandrandomSSLB.php';
+			include 'tmhSSLB.php';
 		?>
-		
+
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<div class="rubrik">
-						<h1>Other &amp; Random</h1>
-					</div>
+					<h1 class="heading">Aum - Encyclopedia Hermetica: A Big History (Part 31)</h1>
 					<div class="text">
-						/*CONTENT HERE...*/
+						<p>
+							<?php
+								include 'TMH31aum.txt';
+							?>
+						</p>
+
 					</div>
 				</article>
 			</div>

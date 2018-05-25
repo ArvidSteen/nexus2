@@ -5,7 +5,7 @@
 	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.txt'
 	?>
 	
-	<link rel="stylesheet" type="text/css" href="/nexus2/pages_home\otherandrandomPages\TMH.css">
+	<link rel="stylesheet" type="text/css" href="galleryStyle.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
 
 </head>
@@ -16,41 +16,36 @@
 	
 	<section>
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/homeSLB.php';
-		?>
-
-		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/otherandrandomPages/otherandrandomSSLB.php';
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_gallery/gallerySLB.php';
 		?>
 
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1 class="heading">Humanism, Historical Consciousness, and Philosophies of the Reformation</h1>
+					<h1>Pufferfish</h1>
 					<div class="text">
-						<p>
+						<div class="columns2">
 							<?php
-								include 'humanism.txt';
-							?>
-						</p>
+								$dirname = "img_pufferfish/";
+								$images = glob($dirname."*.*");
 
+								foreach($images as $image) {
+							    	echo '<div class="element"><img class="normalimg" src="'.$image.'"></div>';
+								}
+							?>
+						</div>
 					</div>
+					<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 				</article>
 			</div>
 		</div>
 	</section>
-	<br>
 	<?php
 		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/footer.php';
 	?>
-
+	
 </body>
 </html>
-
-
-
-
-
 
 
 

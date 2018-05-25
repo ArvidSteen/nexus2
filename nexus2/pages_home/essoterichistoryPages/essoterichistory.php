@@ -5,8 +5,9 @@
 	    include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/meta.txt'
 	?>
 	
-	<link rel="stylesheet" type="text/css" href="galleryStyle.css">
+	<link rel="stylesheet" type="text/css" href="defultStyle.css">
 	<link rel="stylesheet" type="text/css" href="/nexus2/header.css">
+	<link rel="stylesheet" type="text/css" href="/nexus2/pages_home/mainStyle.css">
 
 </head>
 <body style="background-color:#999;">
@@ -16,36 +17,38 @@
 	
 	<section>
 		<?php
-			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_gallery/gallerySLB.php';
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/homeSLB.php';
 		?>
 
+		<?php
+			include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/pages_home/essoterichistoryPages/essoterichistorySSLB.php';
+		?>
+		
 		<div class="wrapper">
 			<div class="mainText">
 				<article><br><br>
-					<h1>Ridgehead</h1>
-					<div class="text">
-						<div class="columns2">
-							<?php
-								$dirname = "img_ridgehead/";
-								$images = glob($dirname."*.*");
-
-								foreach($images as $image) {
-							    	echo '<div class="element"><img class="normalimg" src="'.$image.'"></div>';
-								}
-							?>
-						</div>
+					<div class="rubrik">
+						<h1>Essoteric history</h1>
 					</div>
-					<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+					<div class="text">
+						CONTENTgoesHERE
+					</div>
 				</article>
 			</div>
 		</div>
 	</section>
+	<br>
 	<?php
 		include $_SERVER['DOCUMENT_ROOT'] . '/nexus2/footer.php';
 	?>
-	
+
 </body>
 </html>
+
+
+
+
+
 
 
 
